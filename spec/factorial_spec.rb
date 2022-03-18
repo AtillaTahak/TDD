@@ -1,4 +1,4 @@
-require "../factorial"
+require "../solver"
 
 
 describe "factorial" do
