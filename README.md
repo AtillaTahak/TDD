@@ -1,62 +1,60 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# School Library
 
-# Project Name
+> This is a Ruby school library app which helps record what books are in the libray and who borrows them. The app allows users to add new studnets or teachers, add new books and save records of who borrowed a given book and when.
+## Project requirements
 
-> Description the project.
-
+The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/oop/school_library_people.md)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: Ruby
 
-## Live Demo (if available)
+- Technologies used: [Rubocop](https://rubocop.org/)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Install [ruby](https://www.ruby-lang.org/en/)
+
 ### Setup
+
+N/A
 
 ### Install
 
+N/A
+
 ### Usage
 
-### Run tests
+- run: `git clone https://https://github.com/Fikerte-T/school-library/`
+- run: `ruby main.rb`
 
 ### Deployment
 
-
+N/A
 
 ## Authors
 
-👤 **Author1**
+👤 **ATİLLA TAHA KÖRDÜĞÜM**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AtillaTahak](https://github.com/AtillaTahak)
+- Twitter: [@AtillaTahaa](https://twitter.com/AtillaTahaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/atilla-taha-k%C3%B6rd%C3%BC%C4%9F%C3%BCm-a93702186/)
+- Blog: [Blog](https://github.com/AtillaTahak/school_library/blob/dev/atillataha.blogspot.com)
+- Youtube: [YouTube](https://www.youtube.com/channel/UCmoD0x4Z9vdG2PCsI5p8FYg)
 
-👤 **Author2**
+👤 **Fikerte Tesfaye**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Fikerte-T](https://github.com/Fikerte-T)
+- Twitter: [@tofikertesfaye](https://twitter.com/tofikertesfaye)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fikerte-tesfaye-a68337216/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Fikerte-T/school-library/issues).
 
 ## Show your support
 
@@ -64,10 +62,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+N/A
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./license.md) licensed.
