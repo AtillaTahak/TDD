@@ -1,9 +1,10 @@
-# School Library
+# TDD(Test-driven development)
 
-> This is a Ruby school library app which helps record what books are in the libray and who borrows them. The app allows users to add new studnets or teachers, add new books and save records of who borrowed a given book and when.
+> The idea behind test-driven development (TDD) is that tests are not an afterthought. Also, it makes you think about how your code behaves before starting to code.
+
 ## Project requirements
 
-The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-ruby/blob/main/oop/school_library_people.md)
+The project requirements can be viewed [here](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/testing/tdd_project.md)
 
 ## Built With
 
@@ -26,7 +27,7 @@ N/A
 
 ### Usage
 
-- run: `git clone https://https://github.com/Fikerte-T/school-library/`
+- run: `git clone https://github.com/AtillaTahak/TDD.git`
 - run: `ruby main.rb`
 
 ### Deployment
