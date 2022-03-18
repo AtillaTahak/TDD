@@ -18,11 +18,11 @@ class Solver
   end
 
   def fizzbuzz(num)
-    if num % 15 == 0
+    if (num % 15).zero?
       'fizzbuzz'
-    elsif num % 3 == 0
+    elsif (num % 3).zero?
       'fizz'
-    elsif num % 5 == 0
+    elsif (num % 5).zero?
       'buzz'
     else
       num
