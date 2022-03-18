@@ -1,4 +1,4 @@
-require '../solver'
+require_relative '../solver'
 
 describe 'fizzbuzz' do
   before(:each) do
