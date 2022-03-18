@@ -8,4 +8,12 @@ class Solver
       num * factorial(num - 1)
     end
   end
+
+  def reverse(word)
+    if word.empty?
+      nil
+    else
+      word.reverse
+    end
+  end
 end
